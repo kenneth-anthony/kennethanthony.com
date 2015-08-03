@@ -37,15 +37,23 @@
 		</div>
 	</header>
 	<body>
-		<p>
-			Kenneth Anthony
+		<div class="milestionOne">
+			<div class="logo" </div>
+			<p>
+				Kenneth Anthony
 
-	Purpose
-Hello, my name is Kenneth Anthony Chavez the specific purpose of this website is show case my experience as a graphic
-			designer. This will feature select works through out my career which includes branding, design, marketing,
-			illustration, photography, motion graphics, website and software engineering.?? Purpose The demographic for the my website is businesses looking to advance their presences on the web. The services may include branding, graphic design, public realations, illustration, photography, multimedia services, and social media marketing.
-Goal
-The website design will be clean, modern, minimalist and visually appealing. This is accomplished through a scrolling bar highlighting each portfolio category (essentially?becoming menu structure). The website will be image based.
+				<h3>Purpose</h3>
+				Hello, my name is Kenneth Anthony Chavez the specific purpose of this website is show case my experience as a graphic
+				designer. This will feature select works through out my career which includes branding, design, marketing,
+				illustration, photography, motion graphics, website and software engineering.?? Purpose The demographic for the my website is
+				businesses looking to advance their presences on the web. The services may include branding, graphic design, public relations,
+				illustration, photography, multimedia services, and social media marketing.
+
+				<h3>Goal</h3>
+				The website design will be clean, modern, minimalist and visually appealing.
+				This is accomplished through a scrolling bar highlighting each portfolio category
+				(essentially?becoming menu structure). The website will be image based.
+		</div>
 
 		</p>
 	</body>
