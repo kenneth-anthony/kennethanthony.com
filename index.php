@@ -12,7 +12,6 @@
 
 		<!-- kenneth anthony custom style sheet-->
 		<link rel="stylesheet" type="text/css" href="kennethanthony.css">
-		///////////////////////////////////////////////////// -->
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -31,16 +30,18 @@
 		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 		<title>Bootstrap 101 Template (DDC Version!)</title>
 	</head>
-	<header>
-		<div class="header logo">
 
+	<header>
+		<div class="container">
+			<div class="logo">
+				<img src="media/logos/kennethanthony_logo_heading.svg" alt="logo">
+			</div>
 		</div>
 	</header>
 	<body>
-		<div class="milestionOne">
-			<div class="logo" </div>
+		<div class="container">
 			<p>
-				Kenneth Anthony
+				<h3>Kenneth Anthony</h3>
 
 				<h3>Purpose</h3>
 				Hello, my name is Kenneth Anthony Chavez the specific purpose of this website is show case my experience as a graphic
