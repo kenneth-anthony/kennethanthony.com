@@ -38,9 +38,9 @@
 	</header>
 	<body>
 		<p>
-Kenneth Anthony
+			Kenneth Anthony
 
-Purpose
+	Purpose
 Hello, my name is Kenneth Anthony Chavez the specific purpose of this website is show case my experience as a graphic
 			designer. This will feature select works through out my career which includes branding, design, marketing,
 			illustration, photography, motion graphics, website and software engineering.?? Purpose The demographic for the my website is businesses looking to advance their presences on the web. The services may include branding, graphic design, public realations, illustration, photography, multimedia services, and social media marketing.
