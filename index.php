@@ -32,11 +32,11 @@
 	</head>
 
 	<header>
-		<div class="container">
-			<div class="logo">
-				<img src="media/logos/kennethanthony_logo_heading.svg" alt="logo">
+		<div class="header">
+				<div class="logo">
+					<img src="media/logos/kennethanthony_logo_heading.svg" alt="logo">
+				</div>
 			</div>
-		</div>
 	</header>
 	<body>
 		<div class="container">
@@ -54,7 +54,49 @@
 				The website design will be clean, modern, minimalist and visually appealing.
 				This is accomplished through a scrolling bar highlighting each portfolio category
 				(essentially?becoming menu structure). The website will be image based.
-		</div>
+			</p>
+
+			<p>
+				<h2>Milestone 2</h2>
+				<h3>Persona</h3>
+				Adam<br/>
+
+				age: 43<br/>
+				Adam is an inspiring entrepreneur who is about to embark in the latest in medical technology.
+				Adam has invented a cost effective devise that holds medical information stored in microchip that
+				is easily accessible during the time emergency crisis. The device is scanned and with a handheld
+				device and all the past medical history is populated on a screen. This ensures proper medical treatment
+				is administered in a timely manner.
+
+				Adam is searching investors and needs to create a a website to promote his new product to obtain
+				capital in order to get his product on the market. He wants a clean sophisticated, minimalist approach to
+				for brand of his product
+
+				Adam searches for a google and finds kennethanthony.com. The site features portfolio work.
+				He decides to search the contact for a quote.
+
+				<img src="media/images/outline.svg"alt="use case"><br/>
+				<h3>Flowchart</h3>
+				<img src="media/images/flowchart.svg" alt="flow Chart">
+
+				<h3>Site Map</h3>
+				<h5>Heading</h5>
+					• Menu sticky navbar</br>
+						• about</br>
+						• branding</br>
+						• graphic design</br>
+						• photography </br>
+						• motion graphics</br>
+						• web develop</br>
+						• contact</br>
+							form</br>
+				<h5>footer</h5><br/>
+						• social media links
+
+
+
+
+			</div>
 
 		</p>
 	</body>

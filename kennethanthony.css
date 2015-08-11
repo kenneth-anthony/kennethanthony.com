@@ -1,13 +1,20 @@
 .container {
-	width: 880;
-	hieght: 75px;
+	width: 900px;
+	hieght: auto;
 	color: black;
+}
 
+.header {
+	height: 120px;
+	width: auto;
+	background-color: black;
 }
 
 .logo {
+	widows: 900px;
 	Padding: 20px;
-	width: auto;
-	height: 25px;
+	margin: 20px;
+	width: 100px;
+	height: 	auto;
 }
 
