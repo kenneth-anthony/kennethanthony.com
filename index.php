@@ -92,6 +92,7 @@
 							form</br>
 				<h5>footer</h5><br/>
 						• social media links;;
+		</div>
 
 			<h2>Milestone 3</h2>
 			<h3>Browser</h3>
@@ -107,7 +108,7 @@
 
 
 
-			</div>
+
 
 		</p>
 	</body>
