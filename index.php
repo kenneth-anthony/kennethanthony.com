@@ -95,7 +95,7 @@
 
 			<h2>Milestone 3</h2>
 			<h3>Browser</h3>
-				<img src="media/images/Website_Layout.jpg" alt="page 1">;
+				<img src="media/images/Website_Layout.jpg" alt="page 1">;<br/>
 				<img src="media/images/Website_Layout2.jpg" alt="page 2">;
 				<img src="media/images/Website_Layout3.jpg" alt="page 3">;
 			<h3>Mobile</h3>
