@@ -11,7 +11,7 @@
 		<link type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" rel="stylesheet"/>
 
 		<!-- kenneth anthony custom style sheet-->
-		<link rel="stylesheet" type="text/css" href="kennethanthony.css">
+		<link rel="stylesheet" type="text/css" href="css/kennethanthony.css">
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
