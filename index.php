@@ -12,6 +12,7 @@ require_once("php/lib/head-utils.php");
 		<footer>
 			<?php require_once"php/lib/footer.php"?>
 		</footer>
+
 	</div>
 </body>
 </html>
