@@ -9,6 +9,7 @@ require_once("php/lib/head-utils.php");
 			<div class="maintext">
 
 			</div>
+
 		<footer>
 			<?php require_once"php/lib/footer.php"?>
 		</footer>
