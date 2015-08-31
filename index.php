@@ -7,17 +7,11 @@ require_once("php/lib/head-utils.php");
 			<?php require_once"php/lib/header.php"?>
 		</header>
 			<div class="maintext">
-				<p> main text goes here
-				</p>
-
-			</div>
-
 		<footer>
 			<?php require_once"php/lib/footer.php"?>
 		</footer>
 
-	</div>
+		</div>
 </body>
 </html>
-
 
