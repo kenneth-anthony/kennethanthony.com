@@ -8,10 +8,13 @@
 				<span class="icon-bar"></span>
 			</button>
 			<a class="navbar-brand" href="#">
-				<img src="/media/KA-Logo%20SVG/Kenneth-Anthony-Logo-horizontal-dkbg.svg" alt="Kenneth Anthony" /'>
+				<span>
+					<img src="/media/KA-Logo%20SVG/Kenneth-Anthony-Logo-horizontal-lightbg.svg" alt="Kenneth Anthony Logo">
+				</span>
 			</a>
 		</div>
 
+	<ul class="nav navbar-nav navbar-right">
 	<li class="dropdown">
 		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
 		<ul class="dropdown-menu">
