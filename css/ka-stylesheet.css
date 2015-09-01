@@ -29,7 +29,7 @@ a:focus, a:hover {
 *****************************
 
 #intro {
-	background: url(images/intro.png) 50% 0 fixed;
+	background: url(media/images/landing-page-1.jpg) 50% 0 fixed;
 	height: auto;
 	margin: 0 auto;
 	width: 100%;
@@ -38,7 +38,7 @@ a:focus, a:hover {
 	padding: 100px 0;
 }
 #home {
-	background: url(images/home.jpg) 50% 0 fixed;
+	background: url(media/images/landing-page-2.jpg) 50% 0 fixed;
 	height: auto;
 	margin: 0 auto;
 	width: 100%;
