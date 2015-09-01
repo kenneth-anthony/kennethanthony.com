@@ -11,8 +11,8 @@
 	</div>
 </section>
 <!-- Section 3 -->
-<section id="about" data-speed="2" data-type="background">
+<!--<section id="about" data-speed="2" data-type="background">
 	<div class="container">
 		This is the final section!
 	</div>
-</section>
+</section>-->
