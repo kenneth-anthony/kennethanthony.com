@@ -1,0 +1,31 @@
+
+
+.navbar-brand {
+	display: block;
+	height: auto;
+	width: 40px;
+}
+
+. navbar {
+	min-height: 100px;
+}
+
+.logo {
+	width: 400px;
+}
+
+.center {
+	horiz-align: center;
+}
+
+a{
+	color: #ffffff;
+}
+
+a:focus, a:hover {
+	color: red;
+}
+
+//**********************************
+body
+//**********************************
