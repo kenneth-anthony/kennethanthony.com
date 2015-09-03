@@ -1,32 +1,21 @@
 
-
 .navbar-brand {
-	display: block;
+	width: 40%;
 	height: auto;
-	width: 40px;
+
+
+
 }
 
-. navbar {
-	min-height: 100px;
-}
 
-.logo {
-	width: 400px;
-}
 
-.center {
-	horiz-align: center;
-}
 
-a{
-	color: #ffffff;
-}
 
-a:focus, a:hover {
-	color: red;
-}
 
-*****************************
+
+
+/*
+***************
 
 #intro {
 	background: url("media/images/landing-page-1.jpg") 50% 0 fixed;
@@ -46,13 +35,14 @@ a:focus, a:hover {
 	box-shadow: 0 0 50px rgba(0,0,0,0.8);
 	padding: 200px 0;
 }
-/*0#about {*/
-	/*background: url(images/about.png) 50% 0 fixed;*/
-	/*height: auto;*/
-	/*margin: 0 auto;*/
-	/*width: 100%;*/
-	/*position: relative;*/
-	/*box-shadow: 0 0 50px rgba(0,0,0,0.8);*/
-	/*padding: 100px 0;*/
-	/*color: #fff;*/
-/*}*/
+/!*0#about {*!/
+	/!*background: url(images/about.png) 50% 0 fixed;*!/
+	/!*height: auto;*!/
+	/!*margin: 0 auto;*!/
+	/!*width: 100%;*!/
+	/!*position: relative;*!/
+	/!*box-shadow: 0 0 50px rgba(0,0,0,0.8);*!/
+	/!*padding: 100px 0;*!/
+	/!*color: #fff;*!/
+/!*}*!/!*!/
+*/

@@ -1,28 +1,25 @@
-<nav class="navbar navbar-inverse navbar-static-top">
-	<div class="container">
+<nav class="navbar navbar-inverse">
+	<div class="container-fluid">
 		<div class="navbar-header">
-		<span>
-			<a class="navbar-brand" href="#">
-				<img class=logo src="/media/Kenneth-Anthony-Logo-horizontal-lightbg.png" alt="Kenneth Anthony Logo">
-			</a>
-		</span>
+			<div class="container">
+				<a class="navbar-brand" href="#">
+					<img src="/media/Kenneth-Anthony-Logo-horizontal-lightbg.png" alt="Kenneth Anthony">
+				</a>
+				<ul class="nav navbar-nav navbar-right">
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+							aria-expanded="false">Dropdown <span class="caret"></span> </a>
 
+						<ul class="dropdown-menu">
+							<li><a href="#">About</a></li>
+							<li><a href="#">Design</a><li>
+							<li><a href="#">Photography</a></li>
+							<li><a href="#">Branding</a></li>
+							<li><a href="#">Motion Graphics</a></li>
+						</ul>
+					</li>
+				</ul>
+			</div>
 		</div>
-
-		<ul class="nav navbar-nav navbar-right">
-			<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-				aria-expanded="false">Dropdown <span class="caret"></span></a>
-			<ul class="dropdown-menu">
-				<li><a href="#">Action</a></li>
-				<li><a href="#">Another action</a></li>
-				<li><a href="#">Something else here</a></li>
-				<li role="separator" class="divider"></li>
-				<li><a href="#">Separated link</a></li>
-			</ul>
-			</li>
-		</ul>
-
 	</div>
-	<!-- /.navbar-collapse -->
-	<!-- /.container-fluid -->
 </nav>
